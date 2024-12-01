@@ -211,16 +211,16 @@ public class CalculateAiming : MonoBehaviour
                         wind_offset_mag = 0.0f;
                         break;
                     case 2:
-                        wind_offset_mag = 0.0f;
+                        wind_offset_mag = 10.0f;
                         break;
                     case 3:
-                        wind_offset_mag = 0.0f;
+                        wind_offset_mag = 20.0f;
                         break;
                     case 4:
-                        wind_offset_mag = 0.0f;
+                        wind_offset_mag = 30.0f;
                         break;
                     case 5:
-                        wind_offset_mag = 0.0f;
+                        wind_offset_mag = 40.0f;
                         break;
                 }
                 break;
@@ -255,7 +255,7 @@ public class CalculateAiming : MonoBehaviour
 								break;
 						
 							case 2:
-								wind_offset_mag = 15.0f;
+								wind_offset_mag = 10.0f;
 								break;
 						}
 						break;
@@ -267,7 +267,7 @@ public class CalculateAiming : MonoBehaviour
 								break;
 						
 							case 2:
-								wind_offset_mag = 30.0f;
+								wind_offset_mag = 20.0f;
 								break;
 						}
 						break;
@@ -279,7 +279,7 @@ public class CalculateAiming : MonoBehaviour
 								break;
 						
 							case 2:
-								wind_offset_mag = 45.0f;
+								wind_offset_mag = 30.0f;
 								break;
 						}
 						break;
@@ -291,7 +291,7 @@ public class CalculateAiming : MonoBehaviour
 								break;
 						
 							case 2:
-								wind_offset_mag = 60.0f;
+								wind_offset_mag = 40.0f;
 								break;
 						}
 						break;
@@ -303,7 +303,7 @@ public class CalculateAiming : MonoBehaviour
 								break;
 						
 							case 2:
-								wind_offset_mag = 75.0f;
+								wind_offset_mag = 50.0f;
 								break;
 						}
 						break;
@@ -320,7 +320,7 @@ public class CalculateAiming : MonoBehaviour
 								break;
 						
 							case 2:
-								wind_offset_mag = 15.0f;
+								wind_offset_mag = 10.0f;
 								break;
 						}
 						break;
@@ -332,7 +332,7 @@ public class CalculateAiming : MonoBehaviour
 								break;
 						
 							case 2:
-								wind_offset_mag = 30.0f;
+								wind_offset_mag = 20.0f;
 								break;
 						}
 						break;
@@ -344,7 +344,7 @@ public class CalculateAiming : MonoBehaviour
 								break;
 						
 							case 2:
-								wind_offset_mag = 45.0f;
+								wind_offset_mag = 30.0f;
 								break;
 						}
 						break;
@@ -356,7 +356,7 @@ public class CalculateAiming : MonoBehaviour
 								break;
 						
 							case 2:
-								wind_offset_mag = 60.0f;
+								wind_offset_mag = 40.0f;
 								break;
 						}
 						break;
@@ -368,7 +368,7 @@ public class CalculateAiming : MonoBehaviour
 								break;
 						
 							case 2:
-								wind_offset_mag = 75.0f;
+								wind_offset_mag = 50.0f;
 								break;
 						}
 						break;
@@ -446,16 +446,16 @@ public class CalculateAiming : MonoBehaviour
                         wind_offset_mag = 0.0f;
                         break;
                     case 2:
-                        wind_offset_mag = 0.0f;
+                        wind_offset_mag = 20.0f;
                         break;
                     case 3:
-                        wind_offset_mag = 0.0f;
+                        wind_offset_mag = 40.0f;
                         break;
                     case 4:
-                        wind_offset_mag = 0.0f;
+                        wind_offset_mag = 60.0f;
                         break;
                     case 5:
-                        wind_offset_mag = 0.0f;
+                        wind_offset_mag = 80.0f;
                         break;
                 }
                 break;
